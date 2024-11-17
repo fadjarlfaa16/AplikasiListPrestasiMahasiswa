@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1704360072 source:d:\fadzmohd file\informatics\c++\tugas besar kelopok 2\list.cpp
+	"header.h"
+
+1704355671 d:\fadzmohd file\informatics\c++\tugas besar kelopok 2\header.h
+	<iostream>
+
+1704161528 source:d:\fadzmohd file\informatics\c++\tugas besar kelopok 2\main.cpp
+	<iostream>
+	"header.h"
+
+1724246567 source:d:\informatics\c++\tugas besar kelopok 2\list.cpp
+	"header.h"
+
+1704355671 d:\informatics\c++\tugas besar kelopok 2\header.h
+	<iostream>
+
+1724247099 source:d:\informatics\c++\tugas besar kelopok 2\main.cpp
+	<iostream>
+	"header.h"
+
